@@ -1,11 +1,19 @@
 ---
 title: "Replacement parts for a flower farmer"
-excerpt: "Replicating rack and pinion parts for a flower grading machine<br/><img src='/images/flowergrader/Scenery.jpg'>"
+excerpt: "Replicating rack and pinion parts for a flower grading machine<br/><img src='/images/flowergrader/Scenery.jpg' style='width: 55vw;'>"
 collection: portfolio
 ---
-# As ussual, this page is a work in progress!
+# As usual, this page is a work in progress!
+
+
 
 # Background
+
+Gladiolus are a beautiful long flower. 
+For the most part they can grow year round here in South East Queensland, given enough irrigation. 
+Typically, the only gap in the growing season comes when our southern neighbors short season starts and they flood the market.
+
+
 
 - Machine is long out of production so parts are hard to come by
 - There is only one supplier, who are in the netherlands
@@ -16,7 +24,7 @@ collection: portfolio
 
 ## Requirements
 
-[The original parts](/images/flowergrader/Original%20parts.jpg)
+![The original parts](/images/flowergrader/Original%20parts.jpg)
 
 The original parts are of solid white nylon construction.
 Visual inspection indicated they are likey laser cut then post machined. 
