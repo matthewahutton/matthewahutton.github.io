@@ -1,6 +1,6 @@
 ---
 title: "Replacement parts for a flower farmer"
-excerpt: "Replicating rack and pinion parts for a flower grading machine<br/><img src="/images/flowergrader/Scenery.jpg" style="width: 55vw;">"
+excerpt: "Replicating rack and pinion parts for a flower grading machine<br/><img src='/images/flowergrader/Scenery.jpg' style='height: 50vw;'>"
 collection: portfolio
 ---
 # As usual, this page is a work in progress!
